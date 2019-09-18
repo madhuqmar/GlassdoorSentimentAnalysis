@@ -16,12 +16,11 @@ This is a kaggle dataset of reivews of big tech firms- Google, Facebook, Amazon,
 - Checking statistical significance of non-textual features that might be correlated with the output variable to later to be used in the predictive model
 
 # Sentimen Prediction
-- resampling to tackle class imbalance
-- comparing vectorization models
-- textual feature comparison such as n-grams, number of word features and vectorizers
+- Resampling to tackle class imbalance
+- Textual feature comparison such as n-grams, number of word features and vectorizers
 - Random forest classifier to classify reviews
 - Visualizing model performance with various features specified
 - The best model achieved a score of 99% which is 9.92% times better than the baseline
 
 # Data
-- all the data filtered at various stages of the project, including the original dataset can be found in this folder
+- All the data filtered at various stages of the project, including the original dataset can be found in this folder
