@@ -15,7 +15,7 @@ Glassdoor is a social media forum for sharing thoughts and opinions about workpl
 
 
 # Sentimen Prediction
-- vectorization
+- comparing vectorization models
 - resampling to tackle class imbalance
-- textual feature comparison and selection
+- textual feature comparison and selection such as n-grams
 - The model achieved score of 94% xx times better than the baseline
