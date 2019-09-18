@@ -11,8 +11,11 @@ Glassdoor is a social media forum for sharing thoughts and opinions about workpl
 
 # EDA
 - Labeling dataset: classifying into positive, neutral and negative reviews
-- Checking feature importance and selecting features that are highly correlated with the output variable to later to be used in the predictive model
+- Checking importance of and selecting non-textual features that might be correlated with the output variable to later to be used in the predictive model
 
 
 # Sentimen Prediction
+- vectorization
+- resampling to tackle class imbalance
+- textual feature comparison and selection
 - The model achieved score of 94% xx times better than the baseline
