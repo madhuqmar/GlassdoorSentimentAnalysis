@@ -15,7 +15,7 @@ This is a kaggle dataset of reivews of big tech firms- Google, Facebook, Amazon,
 - Labeling dataset: classifying into positive, neutral and negative reviews
 - Checking statistical significance of non-textual features that might be correlated with the output variable to later to be used in the predictive model
 
-# Sentimen Prediction
+# Sentiment Prediction
 - Resampling to tackle class imbalance
 - Textual feature comparison such as n-grams, number of word features and vectorizers
 - Random forest classifier to classify reviews
